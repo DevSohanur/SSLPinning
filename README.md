@@ -75,7 +75,7 @@ This project is licensed under the MIT License.
 ## Author
 
 Developed by Sohanur Rahman 
-[Portfolio](https//devsohanur.github.io)
+[Portfolio](https://devsohanur.github.io/)
 
 ---
 
